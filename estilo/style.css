@@ -84,6 +84,9 @@ nav {
     nav {
       display: grid;
     }
+    aside > ul {
+        font-size: 0.8em;
+    }
 }
 
 nav > a {
